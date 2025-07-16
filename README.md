@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_AVATAR_URL_HERE" width="200px" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/YunWuS" width="200px" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center" style="font-weight:bold;">
@@ -31,7 +31,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YunWuS&show_icons=true&theme=blueberry&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YunWuS&show_icons=true&theme=light&count_private=true" />
 </div>
 
 ---
@@ -39,9 +39,9 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunWuS&theme=github-light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunWuS&theme=github-light&ring=1DA1F2&fire=4FC3F7&currStreakLabel=1DA1F2" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunWuS&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunWuS&theme=github-light&area=true&color=4FC3F7&line=1DA1F2&point=0f62fe&area_color=CAEFFF&bg_color=FFFFFF" />
 </div>
 
 ---
