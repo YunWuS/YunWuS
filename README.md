@@ -1,50 +1,52 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkZmVlZWRlM2Y0MDQ4NzM0OWE4ZWE5NWIxYzU4Y2QxMjFlZDgwMmUxOGZjZGI2MzE0YmUyZGE5NzljMjM5YzYxNmQw/giphy.gif" width="300" />
+  <img src="YOUR_AVATAR_URL_HERE" width="200px" style="border-radius: 50%;" />
 </div>
 
-<h1 align="center">你好 👋，我是 Shuai Shi</h1>
+<h1 align="center" style="font-weight:bold;">
+  👋 Hello, I'm <span style="color:#4FC3F7">Shuai Shi</span>
+</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎯+音视频情绪识别研究者;🧠+关键点检测爱好者;🤖+人机交互&机器人控制探索者;&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DA1F2&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🎯+Researcher+in+Audio-Visual+Emotion+Recognition;🧠+Facial+Landmark+Detection+Enthusiast;🤖+Explorer+of+Human-Robot+Interaction+and+Expression+Control;" />
 </h3>
 
 <p align="center">
   <a href="https://github.com/YunWuS">
-    <img src="https://komarev.com/ghpvc/?username=YunWuS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=YunWuS&label=Profile%20views&color=1DA1F2&style=flat" alt="Profile views" />
   </a>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/YunWuS?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-## 🚀 关于我
+## 🚀 About Me
 
-🎓 **硕士研究生** @ 南京医科大学 · 生物医学工程与信息学院  
-🏛️ **江苏省智能可穿戴与康复设备工程研究中心**  
-💡 研究方向：音视频情绪识别 · 面部关键点检测 · 机器人面部表情控制  
+🎓 Master’s student @ Nanjing Medical University · School of Biomedical Engineering and Informatics  
+🏛️ Member of Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices  
+💡 Research Interests: Audio-Visual Emotion Recognition · Facial Landmark Detection · Facial Expression Robotics
 
 ---
 
-## 🔥 GitHub 统计
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YunWuS&show_icons=true&theme=onedark" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunWuS&layout=compact&theme=onedark" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YunWuS&show_icons=true&theme=blueberry&count_private=true" />
 </div>
 
 ---
 
-## ⏳ 连续编码热情展示
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunWuS&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunWuS&theme=github-light" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunWuS&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunWuS&theme=github" />
 </div>
 
 ---
 
-## 🛠 我的技术栈
+## 🛠 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,opencv,pytorch,tensorflow" />
@@ -56,30 +58,26 @@
 
 ---
 
-## 📌 项目推荐（可选）
+## 📌 Featured Projects
 
-| 项目名称 | 描述 | 技术 |
-|----------|------|------|
-| [EmotionLite](https://github.com/your-username/EmotionLite) | 轻量级音视频情绪识别模型 | PyTorch / CNN+LSTM |
-| [FaceBot](https://github.com/your-username/FaceBot) | 表情机器人控制系统 | OpenCV / 关键点跟踪 |
-| [FER-Dataset-Toolkit](https://github.com/your-username/FER-Dataset-Toolkit) | 面部表情识别数据集处理工具 | Python / Pandas / Scikit-learn |
+| 🌟 Project | 💡 Description | 🛠 Tech |
+|-----------|----------------|---------|
+| [EmotionLite](https://github.com/YunWuS/EmotionLite) | Lightweight audio-visual emotion recognition model | PyTorch / CNN+LSTM |
+| [FaceBot](https://github.com/YunWuS/FaceBot) | Facial expression robot controller | OpenCV / Landmark Tracking |
+| [FER-Dataset-Toolkit](https://github.com/YunWuS/FER-Dataset-Toolkit) | Toolkit for managing facial expression datasets | Python / Pandas / Scikit-learn |
 
 ---
 
-## 🔗 联系方式 & 社交平台
+## 📬 Contact Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-blog.com">
-    <img src="https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=ghost&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shuai@njmu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-shuai@njmu.edu.cn-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-> 📌 _“持续学习、持续构建，探索人机交互与情绪计算的边界。”_
+> _“Keep learning and building. Explore the boundaries of human-robot interaction and emotional computing.”_
+
+⭐️ **Feel free to Star & Fork my projects. Let’s grow together!**
