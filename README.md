@@ -9,10 +9,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/YunWuS">
+    <img src="https://komarev.com/ghpvc/?username=YunWuS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/YunWuS?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
