@@ -70,11 +70,13 @@
 
 ## 📬 Contact Me
 
+
 <div align="center">
-  <a href="mailto:2519412872@qqcom">
-    <img src="https://img.shields.io/badge/Email-shuai@njmu.edu.cn-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:2519412872@qq.com">
+    <img src="https://img.shields.io/badge/Email-2519412872@qq.com-1DA1F2?style=for-the-badge&logo=tencentqq&logoColor=white" />
   </a>
 </div>
+
 
 ---
 
