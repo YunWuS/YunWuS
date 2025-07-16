@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="font-weight:bold;">
-  👋 Hello, I'm <span style="color:#4FC3F7">Shuai Shi</span>
+  👋 Hello, I'm <span style="color:#4FC3F7">Shuai</span>
 </h1>
 
 <h3 align="center">
@@ -71,7 +71,7 @@
 ## 📬 Contact Me
 
 <div align="center">
-  <a href="mailto:shuai@njmu.edu.cn">
+  <a href="mailto:2519412872@qqcom">
     <img src="https://img.shields.io/badge/Email-shuai@njmu.edu.cn-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
